@@ -37,6 +37,10 @@ header h1{
     border-bottom: 1px solid #6d350e;
 }
 
+.main p{
+    text-decoration: none;
+}
+
 footer{
     background-color: #8b4513;
     color: #fff8dc;
@@ -48,4 +52,5 @@ footer{
 
 footer p{
     margin:0px;
+    text-decoration: none;
 }
