@@ -41,6 +41,10 @@ header h1{
     text-decoration: none;
 }
 
+.main a{
+    color: #6d350e;
+}
+
 footer{
     background-color: #8b4513;
     color: #fff8dc;
